@@ -1,0 +1,21 @@
+{
+  "backup_version": "v1.0.0",
+  "author"        : "Vitaliy Bindyug",
+  "backups"       : [
+    {
+      "backup_name"  : "backup_folder_1",
+      "source_folder": "/home/vet/app/backup_script/Folder-1",
+      "target_folder": "./my_backups"
+    },
+    {
+      "backup_name"  : "backup_folder_2",
+      "source_folder": "/home/vet/app/backup_script/Folder-2",
+      "target_folder": "./my_backups"
+    },
+    {
+      "backup_name"  : "backup_folder_3",
+      "source_folder": "/home/vet/app/backup_script/Folder-3",
+      "target_folder": "./my_backups"
+    }
+  ]
+}
